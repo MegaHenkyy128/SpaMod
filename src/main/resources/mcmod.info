@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "spamod",
+  "name": "Spa Mod",
+  "description": "Spa mod is a mod in which you can build several spa theme related things like a jacuzzi and a sauna",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["Megasware128", "Henky"],
+  "credits": "we want to give a big shout out to all the jacuzzi's and sauna's in the world, because the are so awesome and warmth giving. ;*",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
